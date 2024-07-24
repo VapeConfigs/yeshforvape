@@ -1,4 +1,4 @@
-local emoteID = "nightmare_1"
+local executor = krampus
 
 local slot = 1
 
